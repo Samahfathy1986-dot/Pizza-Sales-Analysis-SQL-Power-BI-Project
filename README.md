@@ -35,7 +35,7 @@ It covers **data engineering**, **dashboard design**, and **business insights**,
 - **Peak Day:** Friday (~4K orders) → optimize staffing
 - **Low Months:** February & September → run seasonal campaigns
 
----
+
 
 ## 🧰 Tech Stack
 - 🧩 SQL Server
@@ -43,7 +43,7 @@ It covers **data engineering**, **dashboard design**, and **business insights**,
 - 🧠 DAX & Data Modeling
 - ⚙️ Business Intelligence & Reporting
 
----
+
 
 ## 🔗 Links
 - **Power BI Dashboard Preview:** *(add link if available)*
