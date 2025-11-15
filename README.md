@@ -50,7 +50,10 @@ It covers **data engineering**, **dashboard design**, and **business insights**,
 - **SQL Scripts & Views:** `/SQL/` folder
 - **Raw Data Samples:** `/Data/` folder
 
----
+## 📊 Dashboard Preview
+
+![Pizza Store Dashboard](Images/dashboard_preview.png)
+
 
 ## 👤 Author
 **Rody Zezo**  
